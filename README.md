@@ -11,6 +11,6 @@
 
 _Screenshots:_
 
-![React-Pics](<https://github.com/Ned-Magician/SearchBar/blob/main/SearchBar(JAVASCRIPT)/1.JPG>)
+![React-Pics](<https://github.com/Ned-Magician/SearchBar-JavaScript/blob/main/SearchBar(JAVASCRIPT)/1.JPG>)
 
 # SearchBar-JAVASCRIPT
